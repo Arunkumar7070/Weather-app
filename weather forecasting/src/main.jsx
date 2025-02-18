@@ -5,6 +5,8 @@ import Weather from '../Components/Weather'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <Weather />
+    <div className='app'> 
+      <Weather/>
+    </div>
   </StrictMode>,
 )
