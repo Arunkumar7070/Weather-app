@@ -1,4 +1,4 @@
-<img width="678" alt="Screenshot 2025-02-18 at 4 44 03 PM" src="https://github.com/user-attachments/assets/2f384e3a-458b-4311-9889-9db6de341dbe" /><h2>Features</h2>
+<h2>Features</h2>
 <ul>
     <li>Search for weather information by city name</li>
     <li>Displays temperature, humidity, and wind speed</li>
