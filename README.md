@@ -9,7 +9,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-username/weather-app.git</code></pre>
+        <pre><code>git clone https://github.com/Arunkumar7070/weather-app.git</code></pre>
     </li>
     <li>Navigate to the project directory:
         <pre><code>cd weather forecasting</code></pre>
